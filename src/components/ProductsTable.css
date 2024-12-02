@@ -1,0 +1,21 @@
+/* Media query for screens with a maximum width of 768px */
+@media (max-width: 768px) {
+    
+  /* Styles for elements with class 'aayush' */
+  .aayush{
+      width: 100%; /* Make the element take up the full width of its container */
+  }
+  
+  /* Styles for elements with class 'products-table' */
+  .products-table {
+      width: 100%; /* Make the table take up the full width of its container */
+  }
+
+  /* Styles for the filters container */
+  .filters-container {
+      display: flex; /* Use flexbox layout */
+      flex-direction: column; /* Stack the items vertically */
+      width: 100%; /* Make the container take up the full width */
+      padding: 0 10px; /* Add horizontal padding of 10px */
+  }
+}
