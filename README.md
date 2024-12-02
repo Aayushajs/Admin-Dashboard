@@ -60,7 +60,7 @@ Include relevant screenshots demonstrating the application functionality:
 1) Product List API Response:
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](./SS.png)
 
 
 
